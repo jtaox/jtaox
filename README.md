@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 August 2022 - To: 12 August 2022
+From: 06 August 2022 - To: 13 August 2022
 
 TypeScript                   ████████████▒░░░░░░░░░░░░   49.68 %
 JSON                         ████░░░░░░░░░░░░░░░░░░░░░   15.77 %
